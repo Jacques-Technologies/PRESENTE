@@ -1,5 +1,5 @@
 {
-  "version": "2.9",
+  "version": "2.10",
   "children": [
     {
       "type": "frame",
@@ -2919,6 +2919,31 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "YqsvN",
+      "x": 188,
+      "y": -926,
+      "name": "Frame 3",
+      "clip": true,
+      "width": 2341,
+      "height": 478,
+      "fill": "#FFFFFF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "text",
+          "id": "VGPQP",
+          "x": 33,
+          "y": 118,
+          "fill": "#000000",
+          "content": "CAMBIO IMPORTANTE",
+          "fontFamily": "Inter",
+          "fontSize": 200,
+          "fontWeight": "normal"
         }
       ]
     }
